@@ -1,2 +1,2 @@
 # MyuPic
-My_uPic
+uPic 图床
